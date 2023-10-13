@@ -18,7 +18,7 @@
   "author": "",
   "dependencies": {
     "@babel/parser": "^7.20.13",
-    "@babel/traverse": "^7.20.13"
+    "@babel/traverse": "^7.23.2"
   },
   "packageManager": "npm@8.5.5"
 }
