@@ -56,3 +56,4 @@ python-gnupg==0.4.9 # For validating signatures
 strawberry-graphql>=0.193.0 # not directly required, pinned by Snyk to avoid a vulnerability
 pydantic>=2.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
 python-multipart>=0.0.7 # not directly required, pinned by Snyk to avoid a vulnerability
+anyio>=4.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
